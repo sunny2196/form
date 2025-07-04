@@ -13,3 +13,4 @@ How to Run
 Open the HTML file in a web browser.
 Fill in the form and submit to see the validation in action.
 Run the Python script in a terminal or command prompt.
+check with videos.
